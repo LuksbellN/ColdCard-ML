@@ -171,16 +171,22 @@ def main():
     C.drawCentredString(W / 2, 448, "ColdCard - ML")
     C.setFont("Body", 12)
     C.drawCentredString(W / 2, 419, "Detecção de transações com aprendizado de máquina")
+    C.setFont("Bold", 11)
+    C.drawCentredString(W / 2, 355, "Repositório do projeto")
     C.setFont("Body", 10)
-    C.drawCentredString(W / 2, 105, "22 de outubro de 2026")
-    C.setFont("Body", 8)
-    C.setFillColor(colors.HexColor(GRAY))
-    C.drawCentredString(W / 2, 82, "github.com/LuksbellN/ColdCard-ML")
+    repo_url = "https://github.com/LuksbellN/ColdCard-ML"
+    C.drawCentredString(W / 2, 333, repo_url)
+    link_width = pdfmetrics.stringWidth(repo_url, "Body", 10)
+    C.setStrokeColor(colors.HexColor(INK))
+    C.setLineWidth(0.4)
+    C.line(W / 2 - link_width / 2, 330, W / 2 + link_width / 2, 330)
     C.linkURL(
-        "https://github.com/LuksbellN/ColdCard-ML",
-        (W / 2 - 115, 77, W / 2 + 115, 93),
+        repo_url,
+        (W / 2 - link_width / 2, 328, W / 2 + link_width / 2, 347),
         relative=0,
     )
+    C.setFont("Body", 10)
+    C.drawCentredString(W / 2, 105, "22 de outubro de 2026")
     C.showPage()
 
     # 1. Visão geral: resultados primeiro, seguidos do fluxo do experimento.
