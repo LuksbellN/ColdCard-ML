@@ -1,0 +1,709 @@
+{
+  "archive_sha256": "679fe208f9a807fdd38e9d64948c73581af3e99ca52fb707ce06937e67bc536d",
+  "archive_bytes": 207436070,
+  "collector": "bc1qnk4zh9qcnap2mycp56qjrgza3cc8ylrh8fecp0",
+  "blocks": [
+    {
+      "height": 960179,
+      "time": 1785371951,
+      "n_tx": 6297,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960180,
+      "time": 1785372459,
+      "n_tx": 5380,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960181,
+      "time": 1785372800,
+      "n_tx": 5715,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960182,
+      "time": 1785373205,
+      "n_tx": 6049,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960183,
+      "time": 1785373820,
+      "n_tx": 5489,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960184,
+      "time": 1785374878,
+      "n_tx": 5148,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960185,
+      "time": 1785375168,
+      "n_tx": 5871,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960186,
+      "time": 1785375236,
+      "n_tx": 6276,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960187,
+      "time": 1785375268,
+      "n_tx": 6497,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960188,
+      "time": 1785375368,
+      "n_tx": 6601,
+      "positives": 63,
+      "collected_sat": 37781216065
+    },
+    {
+      "height": 960189,
+      "time": 1785375441,
+      "n_tx": 5514,
+      "positives": 110,
+      "collected_sat": 11636465759
+    },
+    {
+      "height": 960190,
+      "time": 1785375780,
+      "n_tx": 5076,
+      "positives": 168,
+      "collected_sat": 6784985117
+    },
+    {
+      "height": 960191,
+      "time": 1785376286,
+      "n_tx": 5803,
+      "positives": 159,
+      "collected_sat": 3245055543
+    },
+    {
+      "height": 960192,
+      "time": 1785376547,
+      "n_tx": 6859,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960193,
+      "time": 1785377119,
+      "n_tx": 5280,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960194,
+      "time": 1785377178,
+      "n_tx": 6813,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960195,
+      "time": 1785377219,
+      "n_tx": 7173,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960196,
+      "time": 1785377332,
+      "n_tx": 6165,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960197,
+      "time": 1785377426,
+      "n_tx": 6933,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960198,
+      "time": 1785378115,
+      "n_tx": 5290,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960199,
+      "time": 1785378629,
+      "n_tx": 6032,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960200,
+      "time": 1785379030,
+      "n_tx": 6161,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960371,
+      "time": 1785487149,
+      "n_tx": 5579,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960372,
+      "time": 1785487209,
+      "n_tx": 5349,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960373,
+      "time": 1785487293,
+      "n_tx": 6061,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960374,
+      "time": 1785487559,
+      "n_tx": 6041,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960375,
+      "time": 1785488527,
+      "n_tx": 4368,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960376,
+      "time": 1785488959,
+      "n_tx": 3539,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960377,
+      "time": 1785489777,
+      "n_tx": 3707,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960378,
+      "time": 1785489797,
+      "n_tx": 5627,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960379,
+      "time": 1785489934,
+      "n_tx": 5781,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960380,
+      "time": 1785491057,
+      "n_tx": 4183,
+      "positives": 1,
+      "collected_sat": 777
+    },
+    {
+      "height": 960381,
+      "time": 1785491411,
+      "n_tx": 5199,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960382,
+      "time": 1785491212,
+      "n_tx": 5728,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960383,
+      "time": 1785491437,
+      "n_tx": 5856,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960384,
+      "time": 1785491643,
+      "n_tx": 5663,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960385,
+      "time": 1785491717,
+      "n_tx": 5675,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960386,
+      "time": 1785491748,
+      "n_tx": 7098,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960387,
+      "time": 1785492390,
+      "n_tx": 4621,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960388,
+      "time": 1785492976,
+      "n_tx": 4430,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960389,
+      "time": 1785493210,
+      "n_tx": 5862,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960729,
+      "time": 1785672869,
+      "n_tx": 5661,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960730,
+      "time": 1785673533,
+      "n_tx": 3785,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960731,
+      "time": 1785674059,
+      "n_tx": 4129,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960732,
+      "time": 1785674375,
+      "n_tx": 4538,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960733,
+      "time": 1785678226,
+      "n_tx": 4429,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960734,
+      "time": 1785678095,
+      "n_tx": 4091,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960735,
+      "time": 1785678737,
+      "n_tx": 4178,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960736,
+      "time": 1785679144,
+      "n_tx": 2724,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960737,
+      "time": 1785679535,
+      "n_tx": 4407,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960738,
+      "time": 1785679648,
+      "n_tx": 4515,
+      "positives": 1,
+      "collected_sat": 546
+    },
+    {
+      "height": 960739,
+      "time": 1785679787,
+      "n_tx": 5931,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960740,
+      "time": 1785680487,
+      "n_tx": 4710,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960741,
+      "time": 1785680829,
+      "n_tx": 5159,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960742,
+      "time": 1785682466,
+      "n_tx": 4033,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960743,
+      "time": 1785683546,
+      "n_tx": 4747,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960744,
+      "time": 1785684128,
+      "n_tx": 4740,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960745,
+      "time": 1785684670,
+      "n_tx": 4112,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960746,
+      "time": 1785686093,
+      "n_tx": 4034,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960747,
+      "time": 1785686250,
+      "n_tx": 4725,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960753,
+      "time": 1785693036,
+      "n_tx": 4070,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960754,
+      "time": 1785693438,
+      "n_tx": 4046,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960755,
+      "time": 1785694101,
+      "n_tx": 4265,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960756,
+      "time": 1785694704,
+      "n_tx": 3329,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960757,
+      "time": 1785695389,
+      "n_tx": 3491,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960758,
+      "time": 1785695458,
+      "n_tx": 3584,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960759,
+      "time": 1785695609,
+      "n_tx": 5285,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960760,
+      "time": 1785696232,
+      "n_tx": 4317,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960761,
+      "time": 1785696392,
+      "n_tx": 5585,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960762,
+      "time": 1785698240,
+      "n_tx": 4191,
+      "positives": 1,
+      "collected_sat": 1000
+    },
+    {
+      "height": 960763,
+      "time": 1785698336,
+      "n_tx": 4088,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960764,
+      "time": 1785698616,
+      "n_tx": 4322,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960765,
+      "time": 1785699960,
+      "n_tx": 4040,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960766,
+      "time": 1785700857,
+      "n_tx": 3947,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960767,
+      "time": 1785701746,
+      "n_tx": 3830,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960768,
+      "time": 1785702431,
+      "n_tx": 4175,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960769,
+      "time": 1785704165,
+      "n_tx": 3565,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960770,
+      "time": 1785704483,
+      "n_tx": 4865,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960771,
+      "time": 1785704384,
+      "n_tx": 3193,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960784,
+      "time": 1785712162,
+      "n_tx": 1049,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960785,
+      "time": 1785712421,
+      "n_tx": 6408,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960786,
+      "time": 1785712567,
+      "n_tx": 5927,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960787,
+      "time": 1785712587,
+      "n_tx": 6126,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960788,
+      "time": 1785712773,
+      "n_tx": 5426,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960789,
+      "time": 1785714531,
+      "n_tx": 4218,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960790,
+      "time": 1785715205,
+      "n_tx": 4677,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960791,
+      "time": 1785715786,
+      "n_tx": 4344,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960792,
+      "time": 1785716281,
+      "n_tx": 5050,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960793,
+      "time": 1785717855,
+      "n_tx": 4533,
+      "positives": 1,
+      "collected_sat": 888
+    },
+    {
+      "height": 960794,
+      "time": 1785718502,
+      "n_tx": 4401,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960795,
+      "time": 1785718817,
+      "n_tx": 6046,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960796,
+      "time": 1785719421,
+      "n_tx": 4764,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960797,
+      "time": 1785719858,
+      "n_tx": 6123,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960798,
+      "time": 1785719874,
+      "n_tx": 5572,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960799,
+      "time": 1785719967,
+      "n_tx": 6540,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960800,
+      "time": 1785720150,
+      "n_tx": 5871,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960801,
+      "time": 1785720200,
+      "n_tx": 6517,
+      "positives": 0,
+      "collected_sat": 0
+    },
+    {
+      "height": 960802,
+      "time": 1785721570,
+      "n_tx": 4354,
+      "positives": 0,
+      "collected_sat": 0
+    }
+  ],
+  "duplicates": 0,
+  "coinbase": 98,
+  "rows": 493473,
+  "positives": 504,
+  "collected_sat": 59447725695,
+  "positive_input_sat": 59451489212,
+  "positive_fee_sat": 3659231,
+  "positive_inputs": 1329,
+  "collector_input_txs": 1,
+  "unique_positive_utxos": 1329,
+  "unique_positive_sources": 504,
+  "negatives": 492969,
+  "raw_transactions": 493571,
+  "positive_blocks": 8,
+  "start_utc": "2026-07-30T00:39:11+00:00",
+  "end_utc": "2026-08-03T01:46:10+00:00"
+}

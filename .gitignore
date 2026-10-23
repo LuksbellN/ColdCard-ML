@@ -1,0 +1,25 @@
+# Ambiente local
+.deps/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+*.pem
+*.key
+
+# Blocos fornecidos na disciplina e tabelas que os scripts recriam
+data/*
+!data/README.md
+
+# Arquivos temporários e versões anteriores do relatório
+tmp/
+output/
+outputs/
+report/*.zip
+report/versao_anterior/
+results/final_verification.json
+.DS_Store
+Thumbs.db
